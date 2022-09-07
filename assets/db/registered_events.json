@@ -1,0 +1,152 @@
+{
+  "status": true,
+  "message": "Successful.",
+  "events": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 61,
+        "user_id": 135,
+        "event_id": 44,
+        "type": "user",
+        "ticket": "10622d233b6f8a6",
+        "payment_id": null,
+        "created_at": "2022-03-12T22:48:27.000000Z",
+        "updated_at": "2022-03-12T22:48:27.000000Z",
+        "paystack_reference": null,
+        "other_reference": null,
+        "verify_payment": 0,
+        "user": {
+          "id": 135,
+          "type": "member",
+          "firstname": "Luther",
+          "lastname": "Paquette",
+          "email": "lutherpaquette@gmail.com",
+          "phone": null,
+          "email_verified_at": "2022-03-08T13:21:31.000000Z",
+          "photo": null,
+          "status": 0,
+          "subscribtion": 0,
+          "role": null,
+          "password_updated_at": null,
+          "created_at": "2022-03-08T13:16:27.000000Z",
+          "membership": {
+            "membership_type": "Professional"
+          },
+          "photo_url": "",
+          "member_state": "Onboarding Stage"
+        },
+        "external": null,
+        "event": {
+          "id": 44,
+          "user_id": 1,
+          "privacy": 0,
+          "chapter_id": null,
+          "code": "4490c46cc5c80d3260918c40e8ec59df14728433e8",
+          "title": "Travelling",
+          "category_id": 14,
+          "date": "2022-03-12",
+          "time": "14:54:00",
+          "venue": "adsfasdf",
+          "span": 5,
+          "type": "Pay",
+          "event_type": "Tele-Event",
+          "payment": 2,
+          "file": "uploads/2022/files/1-1645105796-rqAsOPbfsQBXHP2y.txt",
+          "video": "asdfasdf",
+          "details": "adsfsadf",
+          "isArchive": 0,
+          "extra": null,
+          "created_at": "2022-02-17T13:49:56.000000Z",
+          "updated_at": "2022-02-17T13:49:56.000000Z",
+          "file_url": "https://csean.org.ng/members/server/public/storage/uploads/2022/files/1-1645105796-rqAsOPbfsQBXHP2y.txt"
+        }
+      },
+      {
+        "id": 60,
+        "user_id": 135,
+        "event_id": 45,
+        "type": "user",
+        "ticket": "10622d07e513b08",
+        "payment_id": null,
+        "created_at": "2022-03-12T20:51:49.000000Z",
+        "updated_at": "2022-03-12T20:51:49.000000Z",
+        "paystack_reference": null,
+        "other_reference": null,
+        "verify_payment": 0,
+        "user": {
+          "id": 135,
+          "type": "member",
+          "firstname": "Luther",
+          "lastname": "Paquette",
+          "email": "lutherpaquette@gmail.com",
+          "phone": null,
+          "email_verified_at": "2022-03-08T13:21:31.000000Z",
+          "photo": null,
+          "status": 0,
+          "subscribtion": 0,
+          "role": null,
+          "password_updated_at": null,
+          "created_at": "2022-03-08T13:16:27.000000Z",
+          "membership": {
+            "membership_type": "Professional"
+          },
+          "photo_url": "",
+          "member_state": "Onboarding Stage"
+        },
+        "external": null,
+        "event": {
+          "id": 45,
+          "user_id": 1,
+          "privacy": 0,
+          "chapter_id": null,
+          "code": "45c3597d969a9ad2922aac4bca34b9bab6ebbe08ca",
+          "title": "Cyber Security Management",
+          "category_id": 12,
+          "date": "2022-02-28",
+          "time": "22:20:00",
+          "venue": "lorem ipsum dalj adslkjads",
+          "span": 3,
+          "type": "Pay",
+          "event_type": "Traditional",
+          "payment": 5000,
+          "file": "",
+          "video": "asdjflkjaldsjlfjasd",
+          "details": "lorema alsdjf alsdjfla aldskjflkaj",
+          "isArchive": 0,
+          "extra": null,
+          "created_at": "2022-02-21T21:16:07.000000Z",
+          "updated_at": "2022-02-21T21:16:07.000000Z",
+          "file_url": ""
+        }
+      }
+    ],
+    "first_page_url": "https://csean.org.ng/members/server/public/api/user/event?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://csean.org.ng/members/server/public/api/user/event?page=1",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://csean.org.ng/members/server/public/api/user/event?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": null,
+    "path": "https://csean.org.ng/members/server/public/api/user/event",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 2,
+    "total": 2
+  }
+}

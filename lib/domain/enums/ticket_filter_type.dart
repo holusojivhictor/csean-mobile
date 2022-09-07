@@ -1,0 +1,4 @@
+enum TicketFilterType {
+  subject,
+  date
+}

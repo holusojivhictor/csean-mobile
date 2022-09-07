@@ -1,0 +1,4 @@
+enum AccountType {
+  member,
+  admin
+}

@@ -1,0 +1,91 @@
+{
+    "status": true,
+    "message": "Prifile Information",
+    "data": {
+        "user": {
+            "id": 91,
+            "type": "member",
+            "firstname": "Lola",
+            "lastname": "Anderson",
+            "email": "holusojivhictor@gmail.com",
+            "phone": "08145687534",
+            "email_verified_at": "2022-01-13T13:56:05.000000Z",
+            "photo": "public/2022/photo/91-1649562219-3HKS4PDt4Fci85KW.jpg",
+            "status": 1,
+            "subscribtion": 1,
+            "role": null,
+            "password_updated_at": null,
+            "created_at": "2022-01-13T19:56:05.000000Z",
+            "photo_url": "https://csean.org.ng/members/server/public/storage/2022/photo/91-1649562219-3HKS4PDt4Fci85KW.jpg",
+            "member_state": "No Referee Verification",
+            "profile": {
+                "id": 71,
+                "user_id": 91,
+                "chapter_id": 1,
+                "membership_type": "Associate",
+                "current_occupation": "Software Engineer",
+                "job_title": "Mobile Engineer",
+                "company_name": "Apple",
+                "address": "Cupertino, CA",
+                "city": "California",
+                "country": "United States",
+                "gender": "Female",
+                "dateOfBirth": "1999-04-14",
+                "terms": 1,
+                "resume": "public/2022/resume/91-1642104957-wiAudgqsJOJEBrj9.pdf",
+                "payment_id": 21,
+                "subscription_reference": "mq98wk0yre",
+                "event_reference": "",
+                "created_at": "2022-01-13T19:56:06.000000Z",
+                "updated_at": "2022-04-29T23:53:05.000000Z",
+                "chapter": {
+                    "id": 1,
+                    "name": "Lagos",
+                    "description": "Lagos description",
+                    "officers": "[]",
+                    "extra": null,
+                    "created_at": "2021-06-17T13:52:23.000000Z",
+                    "updated_at": "2021-07-06T19:04:36.000000Z"
+                }
+            },
+            "certificates": [],
+            "referees": [
+                {
+                    "id": 81,
+                    "user_id": 91,
+                    "full_name": "Andy samberg",
+                    "occupation": "AI Expert",
+                    "email": "samberg@hehe.com",
+                    "phone": "121213646",
+                    "relationship": "Pal",
+                    "token": "910fc706e8ea131fa139ea30fec2ec0b21d6a0f2cfeSfC3IgHea3",
+                    "status": 0,
+                    "created_at": "2022-01-13T20:17:50.000000Z",
+                    "updated_at": "2022-01-13T20:17:50.000000Z"
+                },
+                {
+                    "id": 82,
+                    "user_id": 91,
+                    "full_name": "Deez nees",
+                    "occupation": "Boss man",
+                    "email": "snickdeez@barf.com",
+                    "phone": "12543645",
+                    "relationship": "None, he's a weirdo",
+                    "token": "910fc706e8ea131fa139ea30fec2ec0b21d6a0f2cfe72LJdmhr2f",
+                    "status": 0,
+                    "created_at": "2022-01-13T20:17:50.000000Z",
+                    "updated_at": "2022-01-13T20:17:50.000000Z"
+                }
+            ]
+        },
+        "subscribtion": {
+            "id": 2,
+            "name": "Associate",
+            "amount": 2,
+            "description": null,
+            "grace_period": 7,
+            "created_at": null,
+            "updated_at": "2022-01-22T12:14:31.000000Z"
+        }
+    }
+}

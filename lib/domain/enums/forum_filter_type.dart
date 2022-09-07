@@ -1,0 +1,3 @@
+enum ForumFilterType {
+  name,
+}

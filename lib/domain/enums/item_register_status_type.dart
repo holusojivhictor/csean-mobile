@@ -1,0 +1,4 @@
+enum ItemRegisterStatusType {
+  registered,
+  notRegistered,
+}

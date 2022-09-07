@@ -1,0 +1,4 @@
+enum AutoThemeModeType {
+  on,
+  off
+}

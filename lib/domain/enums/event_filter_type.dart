@@ -1,0 +1,4 @@
+enum EventFilterType {
+  title,
+  date
+}
